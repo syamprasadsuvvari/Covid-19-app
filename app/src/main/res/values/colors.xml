@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors -->
+    <color name="colorPrimary">#1976D2</color>        <!-- Blue -->
+    <color name="colorPrimaryDark">#0D47A1</color>    <!-- Darker Blue -->
+    <color name="colorAccent">#FFC107</color>         <!-- Amber -->
+
+    <!-- Backgrounds -->
+    <color name="backgroundLight">#F5F5F5</color>     <!-- Light Grey -->
+    <color name="cardBackground">#FFFFFF</color>      <!-- White -->
+    <color name="textPrimary">#212121</color>         <!-- Dark Gray -->
+    <color name="textSecondary">#757575</color>       <!-- Mid Gray -->
+
+    <!-- Stat Colors -->
+    <color name="colorConfirmed">#FFA726</color>      <!-- Orange -->
+    <color name="colorRecovered">#66BB6A</color>      <!-- Green -->
+    <color name="colorDeaths">#EF5350</color>         <!-- Red -->
+    <color name="colorNewCases">#29B6F6</color>       <!-- Light Blue -->
+
+    <!-- Prevention Icons -->
+    <color name="colorPrevention">#3949AB</color>     <!-- Indigo -->
+
+    <!-- Misc -->
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="nav_selected">#6200EE</color>
+    <color name="nav_unselected">#A0A0A0</color>
+</resources>
